@@ -15,9 +15,9 @@ Here's the README page for your GitHub repository for the program demonstrating 
 ### Compile and Run the Program
 <p>To compile and run the program, follow these steps in your terminal:</p>
 <b>Compile the Program</b>:
-<pre><code>g++ -o iterative_recursive iterative_recursive.cpp</code></pre>
+<pre><code>g++ -o Runtime.cpp</code></pre>
 <b>Run the Program</b>:
-<pre><code>./iterative_recursive</code></pre>
+<pre><code>./Runtime</code></pre>
 
 ### Usage
 <p>1. <b>Rabbit Function</b>:</p>
